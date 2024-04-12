@@ -1,0 +1,24 @@
+1.object is an entity which  has state/property and behaviour
+2.state are inside values and behaviour are methods inside
+3.class is a userdefined data type
+4.object is an instance of class
+5.in cpp default is private and we can't access them directly
+6.access modifiers are 3  in c++-> public , private, protected
+7.To get the values of private we use getters and setters
+8.read about padding and greedy alignment
+9.always heap will allocate space of 8
+10.default also constructor formed in c++ which is called default constructor
+11.when we instantiate bject then only constructor is called
+12.we even have parameterised constructor
+13.current object address is stored in this and this is a pointer of current object
+14.if we write parameter constructor then there will be no default constructor we should
+only define it
+15.copy constructor is also built itself
+16.but we can make copy constructor and we use . for static , -> for heap, this also->
+17. default copy constructor is shallow copy and our initiailized one is deep copy
+18.	//but shallow copy is having the same memory and deep copy is making the different memory
+19. //copy assignment operator which is a=b which completely makes equal
+20.destructor will make memory deallocaion
+21.for static automatic destructor call but for dynamic we need to use delete
+22.static without object also we can access using scope operator and it belongs to class and not to object and there is no use of this as this is pointer to current object
+23.static method cannot return the other datatype other than static datatype

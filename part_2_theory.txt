@@ -1,0 +1,28 @@
+1. encapsulation is wrapping up data members and functions
+2. fully encapsulated class all data members are private only
+3. encapsulation is used for information hiding whereas abstraction is implementation hiding
+4. inheritance getting the properties of the main class to the child class
+5. parent class or superclass
+6. child class or sub-class
+7. public in the superclass and when I access via public access modifier then it is public, if via protected then protected and for private it is private
+8. protected in super class then if public and protected way then protected, via private then private
+9. if the superclass is only private then completely not accessible
+10. This Means private member in superclass is not inheritable
+11. protected only methods and of child class we can get
+12. inheritance types 
+single, multilevel, multiple, hybrid, hierarchical
+a->b it is a single inheritance
+a->b->c is multilevel inheritance
+a->c,b->c this is multiple inheritance
+one class is parent class more than one child class->hierarchical inheritance
+hybrid is a combination of more than one inheritance
+13. inheritance ambiguity
+we use:: operator when we use multiple inheritance
+14. polymorphism exists in multiple forms and is called as polymorphism
+15. There are two types of polymorphism which are runtime polymorphism and compile-time polymorphism
+16. compile time are function overloading and operator overloading
+17. run time is function overriding
+18. operator overloading 
+19. runtime is dynamic polymorphism and compile time is static polymorphism
+20. runtime is a method overriding
+21. abstraction is the implementation hiding
